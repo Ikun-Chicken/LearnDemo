@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LastFight\\GraduationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\timemanager\\timeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\timemanager\\timeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\timemanager\\timerbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\timemanager\\timerbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\timemanager\\mytimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\timemanager\\mytimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\single\\singletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\single\\singletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\script\\gameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\script\\manager\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\manager\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\manager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\script\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\manager\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimerItem.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\TimerItem.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\TimeManager\\TimerItem.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\TimerItem.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\TimeManager\\TimerItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:34:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimerBus.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:34:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTimerManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:34:02.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameAttribute.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\GameAttribute.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameAttribute.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\GameAttribute.cs",
+              "RelativeToolTip": "Assets\\Script\\GameAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:33:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\CameraManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\CameraManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:20:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\GameController.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\GameController.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\GameController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:35:55.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingletonMono.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:19:19.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\AudioManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:33:20.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\PlayerController.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\PlayerController.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:41:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimationManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\AnimationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\AnimationManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\AnimationManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\AnimationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:57:54.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

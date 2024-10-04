@@ -34,7 +34,7 @@ public class SingletonMono<T> :MonoBehaviour where T: MonoBehaviour
 				}
 				else
 				{
-					Debug.Log("找到对应单例脚本，该脚本"+ typeof(T).Name + "挂载在：" +instance.gameObject.name);
+					//Debug.Log("找到对应单例脚本，该脚本"+ typeof(T).Name + "挂载在：" +instance.gameObject.name);
 				}
 			}
 			return instance;

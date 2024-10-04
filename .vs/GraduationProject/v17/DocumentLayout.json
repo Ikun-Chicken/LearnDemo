@@ -3,36 +3,72 @@
   "WorkspaceRootPath": "E:\\LastFight\\GraduationProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\script\\road\\objectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\road\\objectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\script\\road\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\road\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\audio\\audioconstans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\audio\\audioconstans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\gizmos\\debuggizmosdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\gizmos\\debuggizmosdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\eventconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\eventconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\single\\singletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\single\\singletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\ui\\rootcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\ui\\rootcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\road\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\road\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\road\\objectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\road\\objectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\timemanager\\timerbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\timemanager\\timerbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\timemanager\\mytimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\timemanager\\mytimermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\gizmos\\debuggizmosdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\gizmos\\debuggizmosdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\AnimationManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Manager\\AnimationManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LastFight\\GraduationProject\\assets\\wxframework\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\wxframework\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LastFight\\GraduationProject\\assets\\wxframework\\eventconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\wxframework\\eventconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,57 +78,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ObjectsManager.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\ObjectsManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Road\\ObjectsManager.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\ObjectsManager.cs",
-              "RelativeToolTip": "Assets\\Script\\Road\\ObjectsManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswBMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:38:43.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RoadManager.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Road\\RoadManager.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
-              "RelativeToolTip": "Assets\\Script\\Road\\RoadManager.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwDIAAAAiAAAA",
+              "Title": "AudioConstans.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Audio\\AudioConstans.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Audio\\AudioConstans.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Audio\\AudioConstans.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\Audio\\AudioConstans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T13:46:36.002Z",
+              "WhenOpened": "2024-10-04T15:06:06.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventConstants.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventConstants.cs",
-              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\EventConstants.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventConstants.cs",
-              "RelativeToolTip": "Assets\\WXFrameWork\\EventConstants.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswAYAAAAqAAAA",
+              "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Audio\\AudioManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\Audio\\AudioManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T12:56:05.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAWwJsAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:29:53.797Z"
+              "WhenOpened": "2024-10-04T15:13:35.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,13 +114,161 @@
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerInput.cs",
               "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerInput.cs",
               "RelativeToolTip": "Assets\\Script\\Player\\PlayerInput.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwDwAAAAGAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:48:35.649Z"
+              "WhenOpened": "2024-10-02T10:48:35.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAwJEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:29:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingletonMono.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\Single\\SingletonMono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:19:34.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:15:35.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\UI\\BasePanel.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\UI\\BasePanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:47:07.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RootCanvas.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\RootCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\UI\\RootCanvas.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\RootCanvas.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\UI\\RootCanvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:25:49.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:46:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\EventManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\EventManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:46:06.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ObjectsManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\ObjectsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Road\\ObjectsManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\ObjectsManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Road\\ObjectsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:38:43.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoadManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Road\\RoadManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Road\\RoadManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:46:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventConstants.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventConstants.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\EventConstants.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventConstants.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\EventConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:56:05.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimerBus.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:59:39.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyTimerManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:30:52.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DebugGizmosDrawer.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Gizmos\\DebugGizmosDrawer.cs",
               "RelativeDocumentMoniker": "Assets\\Gizmos\\DebugGizmosDrawer.cs",
@@ -120,19 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventManager.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventManager.cs",
-              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\EventManager.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventManager.cs",
-              "RelativeToolTip": "Assets\\WXFrameWork\\EventManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T11:02:56.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "AnimationManager.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\AnimationManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\AnimationManager.cs",

@@ -58,17 +58,27 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.8f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\WXFrameWork\EventConstants.cs" />
+    <Compile Include="Assets\Script\UI\CharacterPanel.cs" />
     <Compile Include="Assets\WXFrameWork\TimeManager\TimerItem.cs" />
     <Compile Include="Assets\WXFrameWork\TimeManager\MyTimerManager.cs" />
     <Compile Include="Assets\Script\Road\RoadManager.cs" />
+    <Compile Include="Assets\WXFrameWork\UI\UIManager.cs" />
+    <Compile Include="Assets\Script\UI\MissionPanel.cs" />
+    <Compile Include="Assets\WXFrameWork\UI\BasePanel.cs" />
     <Compile Include="Assets\Script\CameraManager.cs" />
-    <Compile Include="Assets\WXFrameWork\EventManager.cs" />
+    <Compile Include="Assets\WXFrameWork\Audio\AudioManager.cs" />
+    <Compile Include="Assets\Script\UI\ShopPanel.cs" />
+    <Compile Include="Assets\WXFrameWork\UI\RootCanvas.cs" />
     <Compile Include="Assets\WXFrameWork\TimeManager\TimerBus.cs" />
     <Compile Include="Assets\Script\Player\PlayerController.cs" />
+    <Compile Include="Assets\Script\UI\SettingPanel.cs" />
     <Compile Include="Assets\WXFrameWork\Single\SingletonMono.cs" />
     <Compile Include="Assets\Script\Road\ObjectsManager.cs" />
+    <Compile Include="Assets\WXFrameWork\Event\EventManager.cs" />
+    <Compile Include="Assets\WXFrameWork\Audio\AudioConstans.cs" />
+    <Compile Include="Assets\Script\UI\MainPanel.cs" />
     <Compile Include="Assets\Script\Player\PlayerInput.cs" />
+    <Compile Include="Assets\WXFrameWork\Event\EventConstants.cs" />
     <Compile Include="Assets\WXFrameWork\Single\Singleton.cs" />
     <Compile Include="Assets\Gizmos\DebugGizmosDrawer.cs" />
   </ItemGroup>

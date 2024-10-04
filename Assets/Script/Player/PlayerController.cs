@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -16,7 +17,7 @@ public class PlayerController : MonoBehaviour
 {
 	[Header("速度相关")]
 	[SerializeField]
-	private float curSpeed=1;//当前的速度
+	private float curSpeed=5;//当前的速度
 	[SerializeField]
 	private float jumpValue = 7;//跳跃时向上的速度
 	private float gravity = 20;//重力
@@ -36,16 +37,17 @@ public class PlayerController : MonoBehaviour
 	private void Start()
 	{
 		characterController = GetComponent<CharacterController>();
-		InitSpeed();
 		standPosition = Position.Middle;
 	}
 	private void OnEnable()
 	{
 		EventManager.Instance.AddEventListener(EventConstants.InputAction,ExecuteAction);
+		EventManager.Instance.AddEventListener(EventConstants.Begin, InitSpeed);
 	}
 	private void OnDisable()
 	{
 		EventManager.Instance.RemoveEventListener(EventConstants.InputAction, ExecuteAction);
+		EventManager.Instance.RemoveEventListener(EventConstants.Begin, InitSpeed);
 	}
 	private void Update()
 	{
@@ -101,7 +103,7 @@ public class PlayerController : MonoBehaviour
 			}
 		}
 	}
-	void InitSpeed()
+	void InitSpeed(object sender,EventArgs e)
 	{
 		resultantVelocity.z = curSpeed;
 	}
@@ -152,10 +154,10 @@ public class PlayerController : MonoBehaviour
 		}
 	}
 
-	void ExecuteAction(object inputAction)
+	void ExecuteAction(object sender,EventArgs e)
 	{
 		//Debug.Log("被触发");
-		var inputResult= (InputDirection)inputAction;
+		var inputResult= (e as InputAtcionEventArgs).InputDirection;
 		if (inputResult == InputDirection.Left)//左跳
 		{
 			MoveLeft();
@@ -170,7 +172,7 @@ public class PlayerController : MonoBehaviour
 			//TODO 直接播放Roll
 			//Debug.Log("下降");
 		}
-		Debug.Log(isGrounded);
+		//Debug.Log(isGrounded);
 		if (isGrounded)//在地面
 		{
 			resultantVelocity.y = 0f;//清除y轴上的残存速度，以免影响跳跃

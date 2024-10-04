@@ -20,6 +20,7 @@ public class PlayerInput : MonoBehaviour
 
 	private void Update()
 	{
+		Test();
 		GetInputDirection();
 	}
 	void GetInputDirection()
@@ -33,13 +34,13 @@ public class PlayerInput : MonoBehaviour
 		if (Input.GetMouseButton(0) && activeInput)
 		{
 			Vector3 vec = Input.mousePosition - mousePos;
-			Debug.Log(vec.magnitude);
+			//Debug.Log(vec.magnitude);
 			if (vec.magnitude > 10)
 			{
 				var angleY = Mathf.Acos(Vector3.Dot(vec.normalized, Vector2.up)) * Mathf.Rad2Deg;
 				var anglex = Mathf.Acos(Vector3.Dot(vec.normalized, Vector2.right)) * Mathf.Rad2Deg;
-				Debug.Log(anglex);
-				Debug.Log(angleY);
+				//Debug.Log(anglex);
+				//Debug.Log(angleY);
 				if (angleY <= 45)
 				{
 					inputDirection = InputDirection.Up;
@@ -57,9 +58,23 @@ public class PlayerInput : MonoBehaviour
 					inputDirection = InputDirection.Left;
 				}
 				activeInput = false;//完成一次输入操作，置为false
-				EventManager.Instance.DispatchEvent(EventConstants.InputAction, inputDirection);//把输入结果传过去
+				this.DispatchEvent(EventConstants.InputAction,
+					new InputAtcionEventArgs { InputDirection=inputDirection} );
+				//把输入结果传过去
 				//Debug.Log("触发事件");
 			}
+		}
+	}
+	void Test()
+	{
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+			this.DispatchEvent(EventConstants.Begin);
+			AudioManager.Instance.PlayBGM();
+        }
+		if (Input.GetKeyDown(KeyCode.C))
+		{
+			AudioManager.Instance.PlaySound(AudioConstans.coin);
 		}
 	}
 }

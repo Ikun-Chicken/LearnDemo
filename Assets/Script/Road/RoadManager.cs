@@ -69,14 +69,14 @@ public class RoadManager : MonoBehaviour
 
 	void Update()
 	{
-		// 当玩家当前位置的z值超过floorOnRunning地面的z值+2时，触发地面切换
-		if (transform.position.z > floorOnRunning.transform.position.z + 5)
+		// 当玩家当前位置的z值超过floorOnRunning地面的z值+一半时，触发地面切换
+		if (transform.position.z > floorOnRunning.transform.position.z + 100)
 		{
 			RemoveItem(floorOnRunning); // 移除当前地面的物品
 			AddItem(floorOnRunning); // 添加新的物品到当前地面
 
 			// 将当前地面的位置向前移动到floorForward的前方
-			floorOnRunning.transform.position = new Vector3(0, 0, floorForward.transform.position.z + 10);
+			floorOnRunning.transform.position = new Vector3(0, 0, floorForward.transform.position.z + 200);
 
 			// 交换floorOnRunning和floorForward的引用，使得新地面成为当前地面
 			GameObject temp = floorOnRunning;

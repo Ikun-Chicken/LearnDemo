@@ -14,11 +14,12 @@ public class UIManager : Singleton<UIManager>
     {
         pathDic = new Dictionary<string, string>()
         {
-            {UIContants.Main,"Main" },
-            {UIContants.Missions, "Missions"},
+			{UIContants.PlayPanel,"PlayPanel" },
+			{UIContants.Missions, "Missions"},
             {UIContants.Setting,"Setting" },
             {UIContants.Shop,"Shop" },
             {UIContants.Character,"Character" },
+            {UIContants.Navigation,"Navigation" },
         };
     }
 
@@ -84,9 +85,10 @@ public class UIManager : Singleton<UIManager>
 
 public class UIContants
 {
-    public const string Main = nameof(Main);
-    public const string Character=nameof(Character);
+	public const string PlayPanel = nameof(PlayPanel);
+	public const string Character=nameof(Character);
     public const string Missions=nameof(Missions);
     public const string Shop=nameof(Shop);
     public const string Setting=nameof(Setting);
+    public const string Navigation=nameof(Navigation);
 }

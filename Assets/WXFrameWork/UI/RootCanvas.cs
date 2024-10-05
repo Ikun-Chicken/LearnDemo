@@ -6,6 +6,7 @@ public class RootCanvas : MonoBehaviour
 {
 	private void Start()
 	{
-		UIManager.Instance.OpenPanel(UIContants.Main);
+		UIManager.Instance.OpenPanel(UIContants.PlayPanel);
+		//UIManager.Instance.OpenPanel(UIContants.Navigation);
 	}
 }

@@ -62,16 +62,16 @@ public class PlayerController : MonoBehaviour
 	void MoveForward()
 	{
 		resultantVelocity.y -= gravity * Time.deltaTime;
-		characterController.Move((xDirection * 10+resultantVelocity) * Time.deltaTime);
+		characterController.Move((xDirection * 20+resultantVelocity) * Time.deltaTime);
 	}
 	void MoveToStandPosition()
 	{
 		if (standPosition == Position.Left)
 		{
-			if (transform.position.x <= -1.7f)
+			if (transform.position.x <= -5f)
 			{
 				xDirection = Vector3.zero;
-				transform.position = new Vector3(-1.7f, transform.position.y, transform.position.z);
+				transform.position = new Vector3(-5f, transform.position.y, transform.position.z);
 			}
 		}
 		if (standPosition == Position.Middle)
@@ -96,10 +96,10 @@ public class PlayerController : MonoBehaviour
 
 		if (standPosition == Position.Right)
 		{
-			if (transform.position.x >= 1.7f)
+			if (transform.position.x >= 5f)
 			{
 				xDirection = Vector3.zero;
-				transform.position = new Vector3(1.7f, transform.position.y, transform.position.z);
+				transform.position = new Vector3(5f, transform.position.y, transform.position.z);
 			}
 		}
 	}
@@ -187,7 +187,7 @@ public class PlayerController : MonoBehaviour
 		{
 			if (inputResult == InputDirection.Down)
 			{
-				Debug.Log(characterController.isGrounded);
+				//Debug.Log(characterController.isGrounded);
 				QuickGround();
 				//Debug.Log("¿ìËÙÏÂ½µ");
 			}

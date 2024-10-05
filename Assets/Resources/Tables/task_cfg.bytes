@@ -1,0 +1,62 @@
+[
+  {
+    "task_chain_id": 1,
+    "task_sub_id": 1,
+    "icon": "play",
+    "desc": "玩一把游戏",
+    "task_target": "play_a_game",
+    "target_amount": 1,
+    "award": "{\"gold\":1000}",
+    "open_chain": "2|1"
+  },
+  {
+    "task_chain_id": 1,
+    "task_sub_id": 2,
+    "icon": "coin",
+    "desc": "收集一枚金币",
+    "task_target": "get_a_coin",
+    "target_amount": 1,
+    "award": "{\"gold\":500}",
+    "open_chain": "3|1"
+  },
+  {
+    "task_chain_id": 1,
+    "task_sub_id": 3,
+    "icon": "item",
+    "desc": "获得一个道具",
+    "task_target": "get_a_item",
+    "target_amount": 1,
+    "award": "{\"gold\":200}",
+    "open_chain": "4|1"
+  },
+  {
+    "task_chain_id": 2,
+    "task_sub_id": 1,
+    "icon": "play",
+    "desc": "玩两把",
+    "task_target": "play_2_game",
+    "target_amount": 2,
+    "award": "{\"gold\":2000}",
+    "open_chain": null
+  },
+  {
+    "task_chain_id": 3,
+    "task_sub_id": 1,
+    "icon": "coin",
+    "desc": "收集五枚金币",
+    "task_target": "get_5_coin",
+    "target_amount": 5,
+    "award": "{\"gold\":5000}",
+    "open_chain": null
+  },
+  {
+    "task_chain_id": 4,
+    "task_sub_id": 1,
+    "icon": "ietm",
+    "desc": "获得两个道具",
+    "task_target": "get_2_item",
+    "target_amount": 2,
+    "award": "{\"gold\":400}",
+    "open_chain": null
+  }
+]

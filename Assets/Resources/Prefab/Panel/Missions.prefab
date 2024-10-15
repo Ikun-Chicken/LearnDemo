@@ -122,6 +122,7 @@ GameObject:
   - component: {fileID: 1331129510918644481}
   - component: {fileID: 3027047738867819618}
   - component: {fileID: 7456718899679646640}
+  - component: {fileID: 116806574356674433}
   m_Layer: 5
   m_Name: ChildItem
   m_TagString: Untagged
@@ -192,6 +193,24 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &116806574356674433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765245356880634080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ed6d984f1e68604092eda87d4ab434d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desText: {fileID: 3072754378947054609}
+  goAheadBtn: {fileID: 3724454570136148429}
+  getAwardBtn: {fileID: 2023185297170703488}
+  progressSlider: {fileID: 5920373141975266698}
+  icon: {fileID: 2355832927017617882}
+  taskType: {fileID: 395309268229863482}
 --- !u!1 &840522352673645458
 GameObject:
   m_ObjectHideFlags: 0
@@ -854,6 +873,7 @@ GameObject:
   - component: {fileID: 4305592408409912155}
   - component: {fileID: 5458661101321077657}
   - component: {fileID: 740999493047360485}
+  - component: {fileID: 3025436900617493274}
   m_Layer: 5
   m_Name: Scroll View
   m_TagString: Untagged
@@ -950,6 +970,21 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &3025436900617493274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5527001384107946152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeeae66defbf778459f573d96ba7a57c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ChildObj: {fileID: 0}
+  RowPadding: 5
+  PreAllocHeight: 0
 --- !u!1 &7034982554098473347
 GameObject:
   m_ObjectHideFlags: 0

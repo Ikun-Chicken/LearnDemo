@@ -14,6 +14,8 @@ public enum InputDirection
 }
 public class PlayerInput : MonoBehaviour
 {
+	//测试分支
+	int testBranch;
 	InputDirection inputDirection;
 	bool activeInput;//是否按住了鼠标
 	Vector3 mousePos;//记录鼠标按下那一刻的位置

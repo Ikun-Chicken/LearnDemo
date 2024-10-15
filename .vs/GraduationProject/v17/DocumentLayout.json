@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "E:\\LastFight\\GraduationProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\ui\\rootcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\ui\\rootcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\script\\ui\\playpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\playpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|e:\\lastfight\\graduationproject\\assets\\wxframework\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\ui\\missionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\missionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\mission\\data\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mission\\data\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\road\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\road\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\ui\\panel\\playpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\panel\\playpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\ui\\recyclinglistview\\recyclinglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\recyclinglistview\\recyclinglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\ui\\rootcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\ui\\rootcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\mission\\data\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mission\\data\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\road\\objectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\script\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\single\\singletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\single\\singletonmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|solutionrelative:assets\\wxframework\\event\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D82C435-25B8-FF0F-5543-C41EA6652965}|Assembly-CSharp.csproj|E:\\LastFight\\GraduationProject\\assets\\wxframework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,8 +95,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\wxframework\\eventconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\lastfight\\graduationproject\\assets\\script\\ui\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\ui\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\PlayPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\UI\\PlayPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\MissionPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\UI\\MissionPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\SettingPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\UI\\SettingPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -115,57 +119,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlayPanel.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\PlayPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\UI\\PlayPanel.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\PlayPanel.cs",
-              "RelativeToolTip": "Assets\\Script\\UI\\PlayPanel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAiAAAA",
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwHgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T10:57:10.242Z",
+              "WhenOpened": "2024-10-02T10:29:53.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerInput.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:48:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Road\\RoadManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Road\\RoadManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAD4v1UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:46:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RootCanvas.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\RootCanvas.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\UI\\RootCanvas.cs",
               "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\RootCanvas.cs",
               "RelativeToolTip": "Assets\\WXFrameWork\\UI\\RootCanvas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T13:25:49.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\UI\\UIManager.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\UIManager.cs",
-              "RelativeToolTip": "Assets\\WXFrameWork\\UI\\UIManager.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAqwEQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T12:46:19.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MainPanel.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\MainPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\UI\\MainPanel.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\MainPanel.cs",
-              "RelativeToolTip": "Assets\\Script\\UI\\MainPanel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T10:38:44.136Z"
+              "WhenOpened": "2024-10-04T13:25:49.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:35:55.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\Event\\EventManager.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:15:35.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "MissionPanel.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\MissionPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\MissionPanel.cs",
@@ -177,7 +204,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\WXFrameWork\\UI\\UIManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:46:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecyclingListView.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\RecyclingListView\\RecyclingListView.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\RecyclingListView\\RecyclingListView.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\RecyclingListView\\RecyclingListView.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\RecyclingListView\\RecyclingListView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:32:46.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayPanel.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\Panel\\PlayPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\Panel\\PlayPanel.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\Panel\\PlayPanel.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\Panel\\PlayPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:32:56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayPanel.cs",
+              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\PlayPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\PlayPanel.cs",
+              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\PlayPanel.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\PlayPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:57:10.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\UI\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\SettingPanel.cs",
@@ -189,19 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CameraManager.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\CameraManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CameraManager.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\CameraManager.cs",
-              "RelativeToolTip": "Assets\\Script\\CameraManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T10:35:55.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TaskConfiguration.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Mission\\Data\\TaskConfiguration.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Mission\\Data\\TaskConfiguration.cs",
@@ -213,19 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAQwLMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:29:53.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ObjectsManager.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\ObjectsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Road\\ObjectsManager.cs",
@@ -237,19 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RoadManager.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Road\\RoadManager.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Road\\RoadManager.cs",
-              "RelativeToolTip": "Assets\\Script\\Road\\RoadManager.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T13:46:36.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Audio\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Audio\\AudioManager.cs",
@@ -261,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AudioConstans.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Audio\\AudioConstans.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Audio\\AudioConstans.cs",
@@ -273,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TaskLogic.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Mission\\Logic\\TaskLogic.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Mission\\Logic\\TaskLogic.cs",
@@ -285,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TaskData.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Mission\\Data\\TaskData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Mission\\Data\\TaskData.cs",
@@ -294,18 +333,6 @@
               "ViewState": "AQIAAFgAAAAAAAAAAAAAAGsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T06:18:16.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PlayerInput.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerInput.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Player\\PlayerInput.cs",
-              "RelativeToolTip": "Assets\\Script\\Player\\PlayerInput.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:48:35.649Z"
             },
             {
               "$type": "Document",
@@ -322,18 +349,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "EventManager.cs",
-              "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Event\\EventManager.cs",
-              "RelativeDocumentMoniker": "Assets\\WXFrameWork\\Event\\EventManager.cs",
-              "ToolTip": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\Event\\EventManager.cs",
-              "RelativeToolTip": "Assets\\WXFrameWork\\Event\\EventManager.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAqwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:15:35.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "BasePanel.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\UI\\BasePanel.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\UI\\BasePanel.cs",
@@ -345,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "EventManager.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventManager.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\EventManager.cs",
@@ -357,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "EventConstants.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\EventConstants.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\EventConstants.cs",
@@ -369,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "TimerBus.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\TimeManager\\TimerBus.cs",
@@ -381,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "MyTimerManager.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
               "RelativeDocumentMoniker": "Assets\\WXFrameWork\\TimeManager\\MyTimerManager.cs",
@@ -393,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "DebugGizmosDrawer.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Gizmos\\DebugGizmosDrawer.cs",
               "RelativeDocumentMoniker": "Assets\\Gizmos\\DebugGizmosDrawer.cs",
@@ -405,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "AnimationManager.cs",
               "DocumentMoniker": "E:\\LastFight\\GraduationProject\\Assets\\Script\\Manager\\AnimationManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\AnimationManager.cs",

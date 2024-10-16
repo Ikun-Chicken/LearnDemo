@@ -1,5 +1,7 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class UIManager : Singleton<UIManager> 
@@ -9,6 +11,7 @@ public class UIManager : Singleton<UIManager>
     public UIManager()
     {
         InitDic();
+        EventManager.Instance.AddEventListener(EventConstants.Begin,BeginGame);
     }
     private void InitDic()
     {
@@ -66,7 +69,7 @@ public class UIManager : Singleton<UIManager>
         GameObject panelObject=GameObject.Instantiate(panelPrefab,Root,false);
         panel=panelObject.GetComponent<BasePanel>();
         panelDic.Add(name, panel);//缓存实例
-        panel.OpenPanel();//调用其显示面板的方法
+        panel.OpenPanel(name);//调用其显示面板的方法
         return panel;
     }
 
@@ -77,10 +80,21 @@ public class UIManager : Singleton<UIManager>
         {
             Debug.Log("界面没打开");return false;
         }
-        panel.ClosePanel();
+		// 检查是否实现了 IMovablePanel 接口
+		if (panel is IMovablePanel movablePanel)
+		{
+			movablePanel.MoveOutOfScreen();
+		}
+        else
+		    panel.ClosePanel();
         return true;
     }
 
+    private void BeginGame(object sender,EventArgs e)
+    {
+        Root.Find("PlayPanel(Clone)").GetComponent<PlayPanel>().MoveOutOfScreen();
+		Root.Find("Navigation(Clone)").GetComponent<NavigationPanel>().MoveOutOfScreen();
+	}
 }
 
 public class UIContants

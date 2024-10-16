@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
 {
 	[Header("速度相关")]
 	[SerializeField]
-	private float curSpeed=5;//当前的速度
+	private float initSpeed=40;//初始化速度
 	[SerializeField]
 	private float jumpValue = 7;//跳跃时向上的速度
 	private float gravity = 20;//重力
@@ -43,11 +43,21 @@ public class PlayerController : MonoBehaviour
 	{
 		EventManager.Instance.AddEventListener(EventConstants.InputAction,ExecuteAction);
 		EventManager.Instance.AddEventListener(EventConstants.Begin, InitSpeed);
+		//EventManager.Instance.AddEventListener(EventConstants.End,EndGame);
 	}
 	private void OnDisable()
 	{
 		EventManager.Instance.RemoveEventListener(EventConstants.InputAction, ExecuteAction);
 		EventManager.Instance.RemoveEventListener(EventConstants.Begin, InitSpeed);
+		//EventManager.Instance.RemoveEventListener(EventConstants.End, EndGame);
+	}
+	private void OnTriggerEnter(Collider other)
+	{
+		if (other.CompareTag("obstacle"))
+		{
+			Debug.Log("游戏结束");
+			resultantVelocity.z = 0f;
+		}
 	}
 	private void Update()
 	{
@@ -105,7 +115,7 @@ public class PlayerController : MonoBehaviour
 	}
 	void InitSpeed(object sender,EventArgs e)
 	{
-		resultantVelocity.z = curSpeed;
+		resultantVelocity.z = initSpeed;
 	}
 	void JumpUp()
 	{

@@ -16,16 +16,18 @@ public class BasePanel : MonoBehaviour
     /// 传入名字打开对应面板
     /// </summary>
     /// <param name="panelName"></param>
-    public virtual void OpenPanel()
+    public virtual void OpenPanel(string name)
     {
-        SetActive(true);
+        panelName = name;
+		SetActive(true);
     }
 
-    public void ClosePanel()
+    public virtual void ClosePanel()
     {
         isRemove = true;
         SetActive(false);
         UIManager.Instance.panelDic.Remove(panelName);
         Destroy(gameObject);
     }
+
 }

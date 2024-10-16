@@ -372,6 +372,7 @@ GameObject:
   - component: {fileID: 4649155275270511819}
   - component: {fileID: 5747005296581785942}
   - component: {fileID: 2006410479779679223}
+  - component: {fileID: 7310989016044871664}
   m_Layer: 5
   m_Name: Navigation
   m_TagString: Untagged
@@ -467,6 +468,18 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &7310989016044871664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6508034314264227813}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7da513cb6298d749a7d71eab561a524, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6637473311243784495
 GameObject:
   m_ObjectHideFlags: 0
